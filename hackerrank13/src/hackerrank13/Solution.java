@@ -23,7 +23,7 @@ class Result {
         
                Calendar c = Calendar.getInstance();
                
-                   System.out.println(c.DAY_OF_WEEK_IN_MONTH);
+                   System.out.println(c.getTime());
 				return null;
                 
     }
